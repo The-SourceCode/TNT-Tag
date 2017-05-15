@@ -1,0 +1,10 @@
+TNT TAG:
+
+Features:
+- TNT Tag
+- countdown
+- scorebaord
+- coins - rewards
+- spectator mode
+- player manager
+- game manager
