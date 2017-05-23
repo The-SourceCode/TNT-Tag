@@ -1,0 +1,10 @@
+name: TNT TAG
+author: dabuseck
+version: 1.0
+main: com.tsccoding.tnttag.MainClass
+description: TNT TAG
+
+commands:
+ tnttag:
+  usage: /<command>
+  description: Issues the main command
