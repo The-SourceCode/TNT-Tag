@@ -1,0 +1,16 @@
+name: TNTTAG
+author: dabuseck
+version: 1.0
+main: com.tsccoding.tnttag.TNTMain
+description: TNT TAG
+
+commands:
+ lobby:
+  usage: /<command>
+  description: Issues the main command
+ game:
+  usage: /<command>
+  description: Issues the main command
+ force:
+  usage: /<command>
+  description: Issues the main command
